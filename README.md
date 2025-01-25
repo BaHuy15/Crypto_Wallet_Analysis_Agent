@@ -18,11 +18,21 @@ Simple Agent analyzes cryptocurrency wallet addresses, providing detailed insigh
 - **Transaction Analysis**
 - **Behavioral Analysis**
 <h2 id="quick-start">Quick start</h2>
-### **Step 1: Install the required libraries**
-```shell
-pip install -r requirements.txt
+- Setup instructions
+- Usage examples
+- Design decisions
+- Limitations and assumptions
+``` shell 
+uv venv
 
-```
+# On macOS and Linux.
+source .venv/bin/activate
+
+# On Windows.
+.venv\Scripts\activate
+
+uv pip install -r requirements.txt
+```      
 
 
 
