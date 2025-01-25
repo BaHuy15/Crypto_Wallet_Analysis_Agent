@@ -17,11 +17,10 @@ Simple Agent analyzes cryptocurrency wallet addresses, providing detailed insigh
 - **Historical Trend Analysis**
 - **Transaction Analysis**
 - **Behavioral Analysis**
+
 <h2 id="quick-start">Quick start</h2>
-- Setup instructions
-- Usage examples
-- Design decisions
-- Limitations and assumptions
+
+## Setup instructions
 ``` shell 
 uv venv
 
@@ -33,6 +32,26 @@ source .venv/bin/activate
 
 uv pip install -r requirements.txt
 ```      
+## Usage examples
+``` shell 
+uv venv
+
+# On macOS and Linux.
+source .venv/bin/activate
+
+``` 
+
+## Design decisions
+``` shell 
+uv venv
+
+# On macOS and Linux.
+source .venv/bin/activate
+
+```
+
+## Limitations and assumptions
+
 
 
 
